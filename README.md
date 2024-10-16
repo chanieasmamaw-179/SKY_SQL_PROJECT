@@ -71,7 +71,6 @@ Dependencies
 
 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the Masterschool,Berlin, software engineering owner, & Asmamaw Y. License - see the LICENSE file for details.
 Author
-
 [contact me for collaboration and any issues, Asmamaw Yehun(PhD), chanieasmamaw@yahoo.com or yehunchanieasmamaw@gmail.com and +4917625315666]
